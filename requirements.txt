@@ -1,0 +1,8 @@
+discord
+googlesearch-python
+gspread
+oauth2client
+pytz
+IMDbPY
+bs4
+requests
