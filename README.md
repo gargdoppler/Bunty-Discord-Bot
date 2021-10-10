@@ -6,4 +6,4 @@ Bunty doesn't have a specific syntax for each command. It is custom designed for
 
 - `bunty help` triggers the help command.
 - `bunty, dikh, list, movie` triggers the showMovieList command.
-- `bunty, da, list' triggers the addMovie command.
+- `bunty, da, list` triggers the addMovie command.
