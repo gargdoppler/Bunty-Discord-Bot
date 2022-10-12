@@ -10,7 +10,7 @@ cheater = ["Bhau kya cheating kar rhe ho aise 🙃", "Kya bhau aap toh late hogy
 
 jhand_text = ["Qagaar ke chode mujhe order dene ke liye lund khada karna padta hai 🖕", "Chal chutiye teri kaun sun rha", "Bsdk lund 1 inch ka hai nahi, mereko aankhein dikha rha", "Bunty naam hai mera, yahan se lund fek ke maarunga, pura palwal chudh jayega", "Abhi time hai nikal le hijde, warna gaand mai goli maarunga orgasm aajayega"]
 
-movie_absent = ["Bhau maine kalich dekhi hai ye movie, ek number choice bhau, ek number 😎", "Daaldi bhau list mai", "Bhau ye movie kab aayi thi?", "Bhau apun ko toh angrezi filmein bohot pasand hai, samjh kuchh nahi aata par maja bada aata hai", "Bhau apun ko bhi bula lena jab ye movie dekhoge"]
+movie_absent = ["Bhau maine kalich dekhi hai ye movie, ek number choice bhau, ek number 😎", "Daaldi bhau list mai", "Bhau ye movie kab aayi thi?", "Bhau apun ko toh angrezi filmein bohot pasand hai, samjh kuchh nahi aata par maja bada aata hai", "Bhau apun ko bhi bula lena jab ye movie dekhoge", "Bhau popcorn leke aaun kya?"]
 
 movie_present = ["Bhau ye movie toh pehle se hi list mai hai", "Bhau ye movie pehle koi daal chuka hai list mai", "List mai already hai ye movie bhau", "Bhau ye toh dekh chuke ho aap"]
 
