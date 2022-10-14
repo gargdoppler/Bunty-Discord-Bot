@@ -88,6 +88,8 @@ def getName(name):
         return "Magar"
     elif name == "ashutoshsin#4206":
         return "Singla"
+    elif name == "ashKetchum#4486"
+         return "Arush"
 
 
 def getCol(name):
@@ -124,6 +126,8 @@ def getCol(name):
         return 14
     elif name == "ashutoshsin#4206":
         return 15
+    elif name == "ashKetchum#4486"
+         return 16
 
 
 def getStats(name):
